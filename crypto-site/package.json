@@ -1,0 +1,11 @@
+{
+  "name": "crypto-site",
+  "version": "1.0.0",
+  "description": "a website to introduce the uninitated to different cryptos",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tommy Ayres",
+  "license": "ISC"
+}

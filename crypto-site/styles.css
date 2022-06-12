@@ -1,0 +1,11 @@
+.crypto-img{
+    margin:auto;
+    display:block;
+    max-width: 100px;
+    max-height:100x;
+}
+.crypto-card{
+    border-radius:12px;
+    padding:3px 1px 3px 1px;
+    
+}
