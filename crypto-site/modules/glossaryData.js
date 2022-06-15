@@ -1,6 +1,8 @@
-export let glossaryArray =[
-   {term: "51% attack" , definition:"A majority attack that occurs when more than half of the computer power on a network is run by a single person or a single group of people. The entity has full control of the network and can negatively affect a cryptocurrency by halting mining, stopping or changing transactions and reusing coins."}, {
-    term: "Addresses", term:"A unique address that identifies where a cryptocurrency sits on the blockchain. It’s this location at which the coin’s ownership data is stored and where any changes are registered when it is traded. Addresses look different among cryptocurrencies but are usually a string of more than 30 characters."}, {
+ export const glossaryArray =[
+   {term: "51% attack" , definition:"A majority attack that occurs when more than half of the computer power on a network is run by a single person or a single group of people. The entity has full control of the network and can negatively affect a cryptocurrency by halting mining, stopping or changing transactions and reusing coins."
+    }, {
+    term: "Addresses", term:"A unique address that identifies where a cryptocurrency sits on the blockchain. It’s this location at which the coin’s ownership data is stored and where any changes are registered when it is traded. Addresses look different among cryptocurrencies but are usually a string of more than 30 characters."
+    }, {
     term:"Algorithm" , definition:"Mathematic instructions coded into and implemented by computer software to produce a desired outcome."
     },{
         term:"Algo-trading" , definition:" also known as algorithmic trading, is an automated trading system where buy and sell orders are placed according to the rules of a computer program or algorithm. The algorithm may be configured to consider price, but it may also look at other factors such as timing and volume. As soon as the market conditions fulfill the criteria of the algorithm, the alga-trading software will place a buy or sell order accordingly."
@@ -218,6 +220,4 @@ export let glossaryArray =[
        term:"Whale" , definition:"A term used to describe extremely wealthy investors or traders who have enough funds to manipulate the market." 
     }, {
        term:"White Paper" , definition:"A detailed explanation of a cryptocurrency, designed to offer satisfactory technical information, explain the purpose of the coin and set out a roadmap for how it plans to succeed. It’s designed to convince investors that it’s a good choice ahead of an ICO." 
-    }
-
-]
+    }]
