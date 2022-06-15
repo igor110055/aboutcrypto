@@ -73,7 +73,7 @@ function loadCard() {
     <div class="card-body">
     <h4 class="card-title text-center">${x.name}</h4>
     <h4 class="card-title text-center">current price: $44.54</h4>
-    <p class="text-center card-text"> or SAI) is a stablecoin cryptocurrency on the Ethereum blockchain which aims to keep its value as close to one United States dollar (USD) as possible through a system of smart contracts and the decentralized participants which those contracts incentivize to perform maintenance and governance functions.[1] Dai is maintained and </p>
+    <p class="text-center card-text">Litecoin is a peer-to-peer (P2P) virtual currency, which means it is not governed by a central authority. Litecoin's network offers instant, near-zero cost payments that can be conducted by individuals or institutions across the globe. Bitcoin, Litecoin, and many other cryptocurrencies use the proof-of-work (PoW) algorithm in order to secure their networks. Basically, PoW requires that one party proves to all the other participating parties in the network that a required amount of computational effort has been expended. Unlike Bitcoin, which uses the SHA-256 PoW hashing algorithm, Litecoin uses the less resource-intensive Scrypt PoW algorithm. </p>
     <ul class="card-text">
         <li>Creator: john doe </li>
         <li>Created: 1/23/2022</li>
